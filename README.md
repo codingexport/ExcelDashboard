@@ -52,13 +52,27 @@ This project is an interactive **Attendance Dashboard** built using **Microsoft 
 4. Navigate through the form to add/update employee attendance.
 5. Dashboard and salary sections will update automatically.
 
----
-
 ## ⚠️ Note
 
 > This file contains VBA Macros. Please **enable macros** in Excel to allow full functionality.
 
 ---
+# 📊Second Dashboard
+---
+# 📊 Superstore analyesis
+![image](https://github.com/user-attachments/assets/84e871c2-1ff6-4261-936b-69b32c655ee1)
+
+- **Filename:** `Superstoreanalyesis.xls`
+- **Features:**
+  - tracking (Sales, Profit, Region wise , subcategory wise)
+## 🧩 Technologies Used
+
+- Microsoft Excel
+- Excel Functions:
+  - filter
+  - pivot table
+  - chart
+  - link
 
 ## 📄 License
 
